@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayosnowchild
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning react and python 
+- 🌱 I’m currently learning Reactjs and python 
 - 💞️ I’m looking to collaborate on any worthwhile project 
 - 📫 How to reach me adekoyaasap@gmail.com 
 
