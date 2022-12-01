@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ayosnowchild
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning Reactjs and python 
+- 🌱 I’m currently learning Reactjs, Nodejs and python 
 - 💞️ I’m looking to collaborate on any worthwhile project 
-- 📫 How to reach me adekoyaasap@gmail.com 
+- 📫 How to reach me, adekoyaasap@gmail.com 
 
 <!---
 Ayosnowchild/Ayosnowchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
