@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayosnowchild
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning Reactjs, Nodejs and python 
+- 👀 I’m interested in software development projects
+- 🌱 My current stacks include Reactjs, Nodejs, NextJs
 - 💞️ I’m looking to collaborate on any worthwhile project 
 - 📫 How to reach me, adekoyaasap@gmail.com 
 
